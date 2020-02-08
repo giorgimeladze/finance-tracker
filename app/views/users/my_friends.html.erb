@@ -1,0 +1,8 @@
+<h1>my Friends</h1>
+
+
+<% if !@friends.empty? %>
+  <%= render 'friends/list' %>
+<% else %>
+  <a>You currently don't have any friends</a>
+<% end %>
