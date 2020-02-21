@@ -8,4 +8,6 @@ Things you may want to cover:
 
 * Rails version 5.2.4.1
 
+* local_env
+
 * ...
